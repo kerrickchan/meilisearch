@@ -93,7 +93,7 @@ arroy = { git = "https://github.com/meilisearch/arroy.git", version = "0.1.0" }
 rand = "0.8.5"
 
 [dev-dependencies]
-mimalloc = { version = "0.1.37", default-features = false }
+mimalloc = { version = "0.1.39", default-features = false }
 big_s = "1.0.2"
 insta = "1.29.0"
 maplit = "1.0.2"
